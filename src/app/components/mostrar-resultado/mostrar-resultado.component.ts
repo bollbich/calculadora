@@ -8,7 +8,5 @@ import { CalcServiceService } from 'src/app/services/calc-service.service';
 })
 export class MostrarResultadoComponent {
 
-  @Input() resultado:number= 0;
-
   constructor(public servicio:CalcServiceService){}
 }

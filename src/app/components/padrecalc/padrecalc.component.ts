@@ -7,5 +7,4 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PadrecalcComponent {
 
-  resultado:number= 0;
 }
