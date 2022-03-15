@@ -43,6 +43,7 @@ export class CalcularComponent {
     {
       this.valor1 = 0;
       this.valor2 = 0;
+      this.servicio.resultado = 0;
     }
 
 }
